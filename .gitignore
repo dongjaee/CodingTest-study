@@ -1,1 +1,4 @@
 empty_file.txt
+
+# Ignore all files
+*
